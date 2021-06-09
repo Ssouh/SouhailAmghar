@@ -3,7 +3,7 @@
 
 <br>
 
-Hello, I'm **Souhail AMGHAR**. I'm a **Computer Science** engineering student in **ENSEEIHT**, and I'm passionate about **Data Science** ,**Data engineering** et **Machine/Deep Learning**.<br>
+Hello, I'm **Souhail AMGHAR**. I'm a **Computer Science** engineering student in **ENSEEIHT**, and I'm passionate about **BackEnd development** ,**Data engineering** et **Machine/Deep Learning**.<br>
 When I'm not developing and building things, you can find me reading an article about science, new technology or politics, watching anime, sightseeing on Youtube or SM learning stuff, or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or procrastinating (Sadge).
 
 <p align="center" >

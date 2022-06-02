@@ -1,9 +1,9 @@
-## Hi There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="50px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ssouh)
 
 <br>
 
-I'm **Souhail AMGHAR**, I'm a **Computer Science** engineering student in **ENSEEIHT**, and I'm passionate about **BackEnd development**, **ERP/Data engineering**.<br>
+I'm **Souhail AMGHAR**, Your friendly neighbourhood **Computer Science** engineering student , and I'm passionate about **BackEnd development**, **ERP/Data engineering**.<br>
 I'm currently focused on expanding my experience conceptualizing and developing high performing Apps.
 
 <p align="center" >

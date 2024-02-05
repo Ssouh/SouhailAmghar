@@ -3,7 +3,7 @@
 
 <br>
 
-I'm **Souhail AMGHAR**, Your friendly neighbourhood **Computer Science** engineering student , and I'm passionate about **BackEnd development**, **ERP/Data engineering**.<br>
+I'm **Souhail AMGHAR**, Your friendly neighbourhood **Computer Science** engineer , and I'm passionate about **BackEnd development**, **ERP/Data engineering**.<br>
 I'm currently focused on expanding my experience conceptualizing and developing high performing Apps.
 
 <p align="center" >
@@ -55,8 +55,8 @@ I'm currently focused on expanding my experience conceptualizing and developing 
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | Intermediate              |
-| French        | Intermediate  |
+| English       | Intermediate     C1         |
+| French        | Intermediate B2 |
 | German        | beginner      |
 | Arabic        | Native language  |                                                         |
 
